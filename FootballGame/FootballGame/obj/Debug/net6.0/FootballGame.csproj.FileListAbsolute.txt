@@ -1,0 +1,45 @@
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.csproj.AssemblyReference.cache
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.AssemblyInfoInputs.cache
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.AssemblyInfo.cs
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.csproj.CoreCompileInputs.cache
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.exe
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.deps.json
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.runtimeconfig.json
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.dll
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.pdb
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.dll
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\obj\Debug\net6.0\refint\FootballGame.dll
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.pdb
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.genruntimeconfig.cache
+C:\Users\jivom\OneDrive\Desktop\HomeWork OOP\FootballGame\FootballGame\obj\Debug\net6.0\ref\FootballGame.dll
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.exe
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.deps.json
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.runtimeconfig.json
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.dll
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.pdb
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.csproj.AssemblyReference.cache
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.AssemblyInfoInputs.cache
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.AssemblyInfo.cs
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.csproj.CoreCompileInputs.cache
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.dll
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\obj\Debug\net6.0\refint\FootballGame.dll
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.pdb
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.genruntimeconfig.cache
+C:\Users\jivom\OneDrive\Desktop\FootballGame\FootballGame\obj\Debug\net6.0\ref\FootballGame.dll
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.exe
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.deps.json
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.runtimeconfig.json
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.dll
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\bin\Debug\net6.0\FootballGame.pdb
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.csproj.AssemblyReference.cache
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.AssemblyInfoInputs.cache
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.AssemblyInfo.cs
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.csproj.CoreCompileInputs.cache
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.dll
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\obj\Debug\net6.0\refint\FootballGame.dll
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.pdb
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\obj\Debug\net6.0\FootballGame.genruntimeconfig.cache
+C:\Users\jivom\OneDrive\Desktop\HomeWork-OOP2\FootballGame\FootballGame\obj\Debug\net6.0\ref\FootballGame.dll
